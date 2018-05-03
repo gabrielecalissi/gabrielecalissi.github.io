@@ -1,8 +1,8 @@
-#+TITLE: Riassunto Sistemi Distribuiti
+#+TITLE: GitHub Page di Gabriele Calissi
 #+AUTHOR: Gabriele Calissi
 #+EMAIL: gabrielecalissi@gmail.com
 
-GitHub Page di Gabriele Calissi.
+GitHub Page di Gabriele Calissi
 
 Di seguito i link ai progetti:
 - [[https://gabrielecalissi.github.io/psi/][Riassunto Probabilità e Statistica per l'Informatica]].
